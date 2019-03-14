@@ -23,7 +23,7 @@ platform :ios do
       clean: true,
       export_method: 'development',
       output_directory: "~/Desktop", # Destination directory. Defaults to current directory.
-      output_name: "fastlane_jenkins.ipa",
+      output_name: "CIDemo.ipa",
     )
   end
 end
