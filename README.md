@@ -7,8 +7,7 @@ A guideline for setting up the CI environment for iOS with Fastlane and Jenkins 
 - Install Jenkins via Homebrew
 
 ```
-$brew install jenkins
-// start jenkins
+brew install jenkins
 ```
 - start jenkins server by typing `jenkins` in commandline. Open your browser and go to `http://localhost:8080`. Enter password for the first time use, jenkins will create a configuration file under user's root folder. To see the initial password, type command
 
